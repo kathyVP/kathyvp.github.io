@@ -1,8 +1,8 @@
  body{
-    background-color: rgb(96,96,151);
+    background-color: rgb(162, 162, 215);
  }
  h1{
-    color:pink
+    color:rgb(150, 160, 206)
  }
  table, th, td{
     border: 2px dashed black;
@@ -10,6 +10,6 @@
  }
 
 
- p{
+ p {
     color:aquamarine
  }
