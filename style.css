@@ -2,7 +2,8 @@
     background-color: rgb(228, 187, 226);
  }
  h1{
-    color:rgb(121, 54, 150)
+    color:rgb(121, 54, 150);
+    
  }
  table, th, td{
     border: 2px dashed black;
@@ -11,14 +12,23 @@
 
 
  p {
-    color:rgb(59, 40, 143)
+    color:rgb(59, 40, 143);
+    
  }
 
   #p1{
    width: 200px;
-   border-radius: 75px;
+   border-radius: 30px;
+   
+   
  }
  #p2{
    width: 200px;
    border-radius:10px;
  }
+
+#p3{
+   width: 150px;
+   border-radius: 10px;
+}
+
