@@ -1,8 +1,9 @@
  body{
-    background-color: #f9d5e5;
+    background-color: rgb(236,214,201);
  }
  h1{
-    color:#c83349;
+    color:rgb(236, 152, 135);
+    font-family:'Alumni Sans Pinstripe';font-size: 22px;
     
  }
  table, th, td{
