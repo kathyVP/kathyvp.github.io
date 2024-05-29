@@ -3,8 +3,9 @@
  }
  h1{
     color:rgb(236, 152, 135);
-    font-family:'Alumni Sans Pinstripe';font-size: 22px;
-    
+    font-family:'Alumni Sans Pinstripe';font-size: 50px;
+
+   
  }
  table, th, td{
     border: 2px dashed black;
@@ -13,27 +14,26 @@
 
 
  p {
-    color:#e06377;
+    color:#e06377; font-size: 30px;
     
  }
 
   #p1{
-   width: 200px;
-   border-radius: 30px;
-   
-   
- }
- #p2{
-   width: 200px;
-   border-radius:10px;
- }
+   width: 400px;
+   border-radius: 2px;
+  }
 
-#p3{
-   width: 150px;
-   border-radius: 10px;
-}
+  #p2{
+   width: 397px;
+   border-radius: 2px;
+  }
 
+  #p3{
+   width: 397px;
+   border-radius: 2px;
+  }
 a{
-   color:#e06377;
+   color:#e06377; font-size: 30px;
 }
+
 
