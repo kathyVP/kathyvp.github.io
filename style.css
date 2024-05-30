@@ -1,9 +1,9 @@
  body{
-    background-color: rgb(236,214,201);
+    background-color: #ffffff;
  }
  h1{
     color:rgb(236, 152, 135);
-    font-family:'Alumni Sans Pinstripe';font-size: 50px;
+    font-family:'Alumni Sans Pinstripe';font-size: 70px;
 
    
  }
@@ -21,19 +21,40 @@
   #p1{
    width: 400px;
    border-radius: 2px;
+   margin: 50px;
   }
 
   #p2{
    width: 397px;
    border-radius: 2px;
+   margin: 10px;
   }
 
   #p3{
    width: 397px;
    border-radius: 2px;
+   margin: 10px;
+  }
+
+  #p4{
+   width: 1300px;
+  }
+
+  #p5{
+   width: 397px;
+   border-radius: 2px;
+   margin: 80px;
+   
+  }
+
+  #p6{
+   width: 397px;
+   border-radius: 2px;
+   margin: 200px;
   }
 a{
-   color:#e06377; font-size: 30px;
+   color:#e06377; font-size: 40px;
+   margin: 35px;
 }
 
 
