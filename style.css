@@ -19,21 +19,21 @@
  }
 
   #p1{
-   width: 400px;
+   width: 300px;
    border-radius: 2px;
-   margin: 50px;
+   margin: 60px;
   }
 
   #p2{
-   width: 397px;
+   width: 300px;
    border-radius: 2px;
-   margin: 10px;
+   margin: 55px;
   }
 
   #p3{
-   width: 397px;
+   width: 310px;
    border-radius: 2px;
-   margin: 10px;
+   margin: 60px;
   }
 
   #p4{
@@ -43,14 +43,32 @@
   #p5{
    width: 397px;
    border-radius: 2px;
-   margin: 80px;
+   
    
   }
 
   #p6{
-   width: 397px;
+   width: 300px;
    border-radius: 2px;
-   margin: 200px;
+   margin: 60px;
+  }
+
+  #p7{
+   width: 309px;
+   border-radius: 2px;
+   margin: 50px;
+  }
+
+  #p8{
+   width: 310px;
+   border-radius: 2px;
+   margin: 50px;
+  }
+
+  #p9{
+   width: 310px;
+   border-radius: 2px;
+   margin: 50px;
   }
 a{
    color:#e06377; font-size: 40px;
