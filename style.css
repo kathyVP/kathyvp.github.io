@@ -86,6 +86,22 @@
   #p13{
    width: 1300px;
   }
+
+  #money{
+   width:310px;
+   border-radius: 2px;
+   margin: 50px;
+  }
+
+  #3525{
+   width: 1300px;
+  }
+
+  #bb{
+   width:310px;
+   border-radius: 2px;
+   margin: 50px;
+  }
 a{
    color:#e06377; font-size: 40px;
    margin: 35px;
